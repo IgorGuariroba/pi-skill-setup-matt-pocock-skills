@@ -1,0 +1,24 @@
+{
+  "name": "@igor-guari/pi-skill-setup-matt-pocock-skills",
+  "version": "1.0.0",
+  "description": "Configure this repo for the engineering skills: set up its issue tracker, triage label vocabulary, and domain doc layout",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "setup-matt-pocock-skills",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-setup-matt-pocock-skills.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-setup-matt-pocock-skills#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
